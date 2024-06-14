@@ -16,6 +16,6 @@ You'll also learn how to:
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
 ## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
+⭐ SwarupInfotech Masterclass Experience - https://Swarupinfotech/masterclass
 Become a Software Engineer. Guaranteed.
 # My-3dprotfolio
